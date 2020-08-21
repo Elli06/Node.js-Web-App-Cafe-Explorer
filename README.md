@@ -1,4 +1,3 @@
-# YelpCamp-Web
+# CafeExlorer-Web
 First Full-Stack Web Develop Application
-
-will update before Aug 20th 2020, thank you for checking later
+Demo link: https://floating-ridge-31080.herokuapp.com/campgrounds
